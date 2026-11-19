@@ -4,5 +4,9 @@ body{
 a{
     color:orange;
     background-color: red;
-    font-size:30;
+    font-size:25;
+}
+title{
+    color:darkgreen;
+    font-size:40
 }
